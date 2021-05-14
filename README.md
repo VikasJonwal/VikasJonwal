@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VikasJonwal
 - 👀 I’m interested in Web Development And Artificial Intelligence and Machine Learning
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python And HTML CSS
 
 <!---
 VikasJonwal/VikasJonwal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
