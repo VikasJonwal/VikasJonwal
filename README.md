@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VikasJonwal
 - 👀 I’m interested in Web Development And Artificial Intelligence and Machine Learning
 - 🌱 I have learned Python with its frameworks - Flask and Django
-- ✌️  I have also learned some Web Development Skills With HTML, CSS, Bootstrap and WordPress
+- ✌️  I have also Gained some Web Development Skills With HTML, CSS, Bootstrap and WordPress
 - 🙌 Currently I am Learning Machine Learning and Artificial Intelligence as well as Javascript to improve Web Development.  
 
 <!---
