@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vikas</h1>
 <h3 align="center">A passionate Developer from India</h3>
 
-
+<br />
+<br />
 
 - 🔭 I’m interested in **Web Development, Artificial Intelligence and Machine Learning**
 
